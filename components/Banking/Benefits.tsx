@@ -8,8 +8,8 @@ export const Benefits: React.FC = () => {
     useState<keyof typeof bankingFeatures>("Benefits");
 
   return (
-    <div className="w-3/5">
-      <div className="flex mb-4 bg-gray-100 p-1 rounded-full justify-between">
+    <div className="md:w-3/5 w-full">
+      <div className="flex mb-4 bg-gray-100 p-1 rounded-full justify-between md:flex-row flex-col">
         {(
           Object.keys(bankingFeatures) as Array<keyof typeof bankingFeatures>
         ).map((category) => (

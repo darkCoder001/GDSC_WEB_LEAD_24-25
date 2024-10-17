@@ -6,7 +6,7 @@ import { Fade } from "react-awesome-reveal";
 
 export const Hero = () => {
   return (
-    <div className="px-14 mt-10 w-full flex justify-between ">
+    <div className="px-14 mt-10 w-full flex justify-between md:flex-row flex-col">
       <div className="flex relative w-3/4">
         <div className="flex flex-col justify-between pb-5">
           <p className="text-6xl">
@@ -39,7 +39,7 @@ export const Hero = () => {
           alt=""
           height={500}
           width={700}
-          className="-mt-1 absolute end-0"
+          className="-mt-1 absolute end-0 hidden md:block"
         />
       </div>
       <div className="flex-col gap-5 end-0">

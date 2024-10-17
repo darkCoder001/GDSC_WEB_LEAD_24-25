@@ -4,7 +4,7 @@ import React from "react";
 
 export const OB = () => {
   return (
-    <div className="w-1/3 bg-white rounded-3xl px-10 py-5 flex flex-col gap-7 items-center">
+    <div className="md:w-1/3 bg-white rounded-3xl px-10 py-5 flex flex-col gap-7 items-center w-full">
       <div className="flex justify-between z-10">
         <p className="w-2/3 text-3xl">
           ONLINE BANKING THAT TAKES YOUR BUSINESS TO THE{" "}
@@ -24,7 +24,7 @@ export const OB = () => {
           alt=""
           width={250}
           height={250}
-          className="rounded-2xl -mt-20"
+          className="rounded-2xl -mt-20 hidden md:block"
         />
       </div>
     </div>

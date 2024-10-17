@@ -2,7 +2,6 @@ import Image from "next/image";
 import { Header } from "@/components/header/header";
 import { Hero } from "@/components/Hero/Hero";
 import { Banking } from "@/components/Banking/page";
-import { Footer } from "@/components/Footer/Footer";
 
 export default function Home() {
   return (
@@ -10,7 +9,6 @@ export default function Home() {
       <Header />
       <Hero />
       <Banking />
-      <Footer />
     </div>
   );
 }
