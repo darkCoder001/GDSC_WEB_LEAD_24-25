@@ -1,0 +1,112 @@
+{
+    "Benefits": [
+      {
+        "title": "Access your card at any time",
+        "description": "Every Nova checking account comes with a free physical debit card and virtual debit card, so you always have access at your fingertips.",
+        "expanded": true
+      },
+      {
+        "title": "Make your money work for you",
+        "description": "Earn competitive interest rates on your balance and take advantage of automated savings features.",
+        "expanded": false
+      },
+      {
+        "title": "Pay and get paid your way",
+        "description": "Choose from multiple payment options including direct deposit, wire transfers, and instant peer-to-peer payments.",
+        "expanded": false
+      },
+      {
+        "title": "Free from hidden fees",
+        "description": "Enjoy transparent pricing with no monthly maintenance fees, overdraft fees, or minimum balance requirements.",
+        "expanded": false
+      }
+    ],
+    "Invoice": [
+      {
+        "title": "Create professional invoices instantly",
+        "description": "Generate and send customized invoices directly from your Nova account with just a few clicks.",
+        "expanded": true
+      },
+      {
+        "title": "Automated payment reminders",
+        "description": "Set up automatic reminders to ensure timely payments from your clients and customers.",
+        "expanded": false
+      },
+      {
+        "title": "Track payments in real-time",
+        "description": "Monitor the status of your invoices and receive instant notifications when payments are received.",
+        "expanded": false
+      },
+      {
+        "title": "Seamless accounting integration",
+        "description": "Easily sync your invoice data with popular accounting software for streamlined bookkeeping.",
+        "expanded": false
+      }
+    ],
+    "Integration": [
+      {
+        "title": "Connect with your favorite tools",
+        "description": "Integrate Nova with a wide range of business and financial applications to streamline your operations.",
+        "expanded": true
+      },
+      {
+        "title": "Automate your workflows",
+        "description": "Set up custom triggers and actions to automate repetitive tasks and save time.",
+        "expanded": false
+      },
+      {
+        "title": "Real-time data synchronization",
+        "description": "Keep your financial data up-to-date across all your connected platforms and services.",
+        "expanded": false
+      },
+      {
+        "title": "Developer-friendly API",
+        "description": "Build custom integrations and applications using our comprehensive API documentation.",
+        "expanded": false
+      }
+    ],
+    "Partner Perks": [
+      {
+        "title": "Exclusive discounts on business services",
+        "description": "Access special offers and discounts from our network of trusted business service providers.",
+        "expanded": true
+      },
+      {
+        "title": "Co-marketing opportunities",
+        "description": "Collaborate with Nova and other partners to reach new audiences and grow your business.",
+        "expanded": false
+      },
+      {
+        "title": "Priority customer support",
+        "description": "Enjoy dedicated support channels and faster response times as a Nova partner.",
+        "expanded": false
+      },
+      {
+        "title": "Networking events and workshops",
+        "description": "Participate in exclusive events to connect with other businesses and learn from industry experts.",
+        "expanded": false
+      }
+    ],
+    "Nova Boost": [
+      {
+        "title": "Accelerate your growth",
+        "description": "Access additional capital and resources to take your business to the next level with Nova Boost.",
+        "expanded": true
+      },
+      {
+        "title": "Tailored financial advice",
+        "description": "Receive personalized guidance from our team of financial experts to optimize your business strategy.",
+        "expanded": false
+      },
+      {
+        "title": "Advanced analytics and insights",
+        "description": "Gain deeper understanding of your financial performance with our advanced reporting tools.",
+        "expanded": false
+      },
+      {
+        "title": "Exclusive Nova Boost community",
+        "description": "Connect with other high-growth businesses and share experiences in our exclusive network.",
+        "expanded": false
+      }
+    ]
+  }  
